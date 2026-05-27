@@ -1,12 +1,12 @@
 ---
-title: test.md
+title: 测试发布
 date: '2026-05-27 14:35:21'
-updated: '2026-05-27 15:24:30'
+updated: '2026-05-27 15:28:01'
 enableToc: true
 enableBackLinks: true
 ---
 
-# test.md
+# 测试发布
 
 $$
 e^{\pi i} = 0
